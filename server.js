@@ -2,7 +2,6 @@ const express = require("express");
 const mongoose = require("mongoose")
 const SaleRouter = require("./routes/sale.route");;
 const cors = require("cors");
-const BASE_URL = process.env.BASE_URL
 
 
 
